@@ -5,7 +5,9 @@
 
 </div>
 
-## 👋 Hey there!
+## 👋 Hello there! <div align="center">
+  <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="400" alt="Hello There"/>
+</div>
 
 I'm Logan, a software developer in training with a creative background in graphic design. Currently diving deep into web development through the **Codespace 7-week bootcamp** in partnership with **2i2 Testing**.
 
