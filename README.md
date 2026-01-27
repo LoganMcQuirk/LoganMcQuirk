@@ -1,0 +1,24 @@
+<div align="center">
+  
+<!-- Custom Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3C3A93&height=200&section=header&text=Logan%20McQuirk&fontSize=60&fontColor=F0BE53&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Graphic%20Designer&descSize=20&descAlignY=55&descColor=B4C2FF" />
+
+</div>
+
+## 👋 Hey there!
+
+I'm Logan, a software developer in training with a creative background in graphic design. Currently diving deep into web development through the **Codespace 7-week bootcamp** in partnership with **2i2 Testing**.
+
+I'm passionate about building clean, functional applications and bringing a designer's eye to development. Right now, I'm focused on refining my tech stack and leveling up my web development skills through hands-on projects.
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
