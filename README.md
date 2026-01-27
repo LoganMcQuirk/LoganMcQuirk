@@ -1,7 +1,7 @@
 <div align="center">
   
 <!-- Custom Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3C3A93&height=200&section=header&text=Logan%20McQuirk&fontSize=60&fontColor=F0BE53&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20%7C%20Graphic%20Designer&descSize=20&descAlignY=55&descColor=B4C2FF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=3C3A93&height=200&section=header&text=Logan%20McQuirk&fontSize=60&fontColor=F0BE53&animation=fadeIn&fontAlignY=35&desc=Software%20Development%20%7C%20Graphic%20Design&descSize=20&descAlignY=55&descColor=B4C2FF" />
 
 </div>
 
@@ -9,7 +9,7 @@
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="200" alt="Hello There"/>
 </div>
 
-I'm Logan, a software developer in training with a creative background in graphic design. Currently getting stuck into web development through the **Codespace 7-week bootcamp** in partnership with **2i2 Testing**.
+I'm Logan, a software developer in training based in Musselburgh, Scotland, with a creative background in graphic design. Currently getting stuck into web development through the **Codespace 7-week bootcamp** in partnership with **2i2 Testing**.
 
 I'm all about building clean, functional applications and bringing a designer's eye to development. Right now, I'm focused on refining my tech stack and bolstering my back-end development skills through various projects.
 
