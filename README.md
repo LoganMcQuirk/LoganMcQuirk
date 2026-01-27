@@ -9,9 +9,9 @@
   <img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="200" alt="Hello There"/>
 </div>
 
-I'm Logan, a software developer in training with a creative background in graphic design. Currently diving deep into web development through the **Codespace 7-week bootcamp** in partnership with **2i2 Testing**.
+I'm Logan, a software developer in training with a creative background in graphic design. Currently getting stuck into web development through the **Codespace 7-week bootcamp** in partnership with **2i2 Testing**.
 
-I'm passionate about building clean, functional applications and bringing a designer's eye to development. Right now, I'm focused on refining my tech stack and leveling up my web development skills through hands-on projects.
+I'm all about building clean, functional applications and bringing a designer's eye to development. Right now, I'm focused on refining my tech stack and bolstering my back-end development skills through various projects.
 
 ## 🛠️ Tech Stack
 
